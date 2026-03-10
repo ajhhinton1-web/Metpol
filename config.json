@@ -1,0 +1,11 @@
+{
+  "_readme": "This file is auto-managed by the bot. Do NOT put secrets here. Edit settings.py for all configuration.",
+  "ticket": {
+    "_tier_readme": "Role IDs are set via /ticket tier addrole and saved here automatically.",
+    "tier_role_ids": {
+      "1": [],
+      "2": [],
+      "3": []
+    }
+  }
+}

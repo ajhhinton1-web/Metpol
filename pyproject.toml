@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "discord-admin-bot"
+version = "1.0.0"
+description = "Discord Admin Bot with Tickets, Roblox Events & Ranking"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+"discord.py" = ">=2.3.2"
+aiohttp = ">=3.9.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
